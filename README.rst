@@ -1,1 +1,3 @@
-This repository has been moved to https://github.com/dcramer/sentry
+THIS REPOSITORY HAS BEEN MOVED
+
+https://github.com/getsentry/sentry
